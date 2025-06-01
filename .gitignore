@@ -1,0 +1,5 @@
+node_modules/
+outputs/**/*.mp4
+outputs/**/*.avi
+outputs/**/*.mov
+outputs/**/*.mkv
